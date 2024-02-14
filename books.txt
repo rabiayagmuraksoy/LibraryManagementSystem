@@ -1,0 +1,21 @@
+Book Title,Author,Release Date,Number of Pages
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,320
+The Hobbit,J.R.R. Tolkien,1937,310
+A Game of Thrones,George R.R. Martin,1996,694
+The Name of the Wind,Patrick Rothfuss,2007,662
+Mistborn: The Final Empire,Brandon Sanderson,2006,541
+The Lies of Locke Lamora,Scott Lynch,2006,499
+The Way of Kings,Brandon Sanderson,2010,1007
+The Priory of the Orange Tree,Samantha Shannon,2019,827
+The Eye of the World,Robert Jordan,1990,814
+The Poppy War,R.F. Kuang,2018,530
+Shadow and Bone,Leigh Bardugo,2012,358
+The Hunger Games,Suzanne Collins,2008,374
+Twilight,Stephenie Meyer,2005,498
+The Maze Runner,James Dashner,2009,375
+The Fellowship of the Ring,J.R.R. Tolkien,1954,479
+The Lion, the Witch and the Wardrobe,C.S. Lewis,1950,206
+The Alchemist,Paulo Coelho,1988,197
+Eragon,Christopher Paolini,2002,509
+The Chronicles of Narnia,C.S. Lewis,1950,767
+Divergent,Veronica Roth,2011,487
